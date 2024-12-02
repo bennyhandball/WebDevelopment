@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phonebook xsi:noNamespaceSchemaLocation="phonebook.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+	<entry gender="male">
+		<lastname>Heffter</lastname>
+		<name>Daniel</name>
+		<address/>
+		<mobile>0123-45678912</mobile>
+		<!-- ein Kommentar -->
+	</entry>
+</phonebook>
