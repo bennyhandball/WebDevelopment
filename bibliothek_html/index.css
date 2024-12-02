@@ -1,0 +1,21 @@
+
+#head{
+    color: black;
+    text-align: center;
+}
+
+#table{
+    margin: 0 auto;
+}
+
+
+#Footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+table tr th {
+    padding-right: 60px;
+}
